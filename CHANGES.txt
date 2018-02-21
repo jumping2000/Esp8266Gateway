@@ -1,0 +1,7 @@
+Modifications made by Licensee (see section 3.4.b in )
+
+Rev 1
+Prototype version, not published
+
+Rev 2
+ESP8266 Wemod D1 board with NRF24L01 and RFM69 antenna, TP4056 LiOn charger circuit, MCP1700 Voltage regulator, many pins to connect sensors.
